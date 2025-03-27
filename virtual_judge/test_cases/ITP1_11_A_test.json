@@ -1,0 +1,72 @@
+[
+    {
+        "serial": 1,
+        "in": "1 2 4 8 16 32\nSE",
+        "out": "8"
+    },
+    {
+        "serial": 2,
+        "in": "1 2 4 8 16 32\nEESWN",
+        "out": "32"
+    },
+    {
+        "serial": 3,
+        "in": "1 2 3 4 5 6\nSWNN",
+        "out": "4"
+    },
+    {
+        "serial": 4,
+        "in": "1 2 3 4 5 6\nSWNNEEES",
+        "out": "1"
+    },
+    {
+        "serial": 5,
+        "in": "1 2 3 4 5 6\nSWNNEEESSEWWNNE",
+        "out": "5"
+    },
+    {
+        "serial": 6,
+        "in": "6 5 4 3 2 1\nSSSSEEENNNWWSEWNNWNWESSE",
+        "out": "4"
+    },
+    {
+        "serial": 7,
+        "in": "1 2 3 4 5 6\nS",
+        "out": "5"
+    },
+    {
+        "serial": 8,
+        "in": "7 8 9 10 11 12\nW",
+        "out": "9"
+    },
+    {
+        "serial": 9,
+        "in": "13 14 15 16 17 18\nN",
+        "out": "14"
+    },
+    {
+        "serial": 10,
+        "in": "19 20 21 22 23 24\nE",
+        "out": "22"
+    },
+    {
+        "serial": 11,
+        "in": "1 2 3 4 5 6\nSSSSSEEEWWWNNNSSSNEENNNWWWWEEEENNNNNNNSSNNSNSNSNSWEWEWENNN",
+        "out": "6"
+    },
+    {
+        "serial": 12,
+        "in": "1 2 3 4 5 6\nNNSESSESSEEEWWEWNENNSEESSNEENENNWEEWWWEENNEENNWWENNNNNSSNNSNSNSNSWEWEWENNN",
+        "out": "5"
+    },
+    {
+        "serial": 13,
+        "in": "32 59 68 1 2 12\nSESSWWNWNNSESSNWNWNNSESSWWNWWNSESSWWNWNNSESSEENWNNSESSWWNWNNSESSWWNWNNSESSSSNWNNSESSEWNWNNSESSWWNWSN",
+        "out": "2"
+    },
+    {
+        "serial": 14,
+        "in": "32 59 68 1 2 12\nSSNWNNSESSNWNWNNSEWWSSWWNWWNSESSWNNWNNSESSSSNWNNSESSSSNWNNSESSWWNWNNSESSSSNWNNSESSEWNWSSSESSWWNWSNSE",
+        "out": "1"
+    }
+]

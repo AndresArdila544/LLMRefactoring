@@ -1,0 +1,5 @@
+# coding: utf-8
+# 1???????????????
+s = input().split()
+a, b = map(int, s)
+print(f"a {'' if a > b else '<' if a < b else '=='} b")

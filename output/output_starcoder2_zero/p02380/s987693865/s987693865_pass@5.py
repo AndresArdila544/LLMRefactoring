@@ -1,0 +1,1 @@
+The program calculates the area of a triangle given its sides and the included angle between them (in degrees). The output is the area, perimeter, and semiperimeter of the triangle.

@@ -1,0 +1,120 @@
+# coding=utf-8
+from itertools import combinations
+
+
+class Dice(object):
+
+    def __init__(self, list_):
+        self.label = list_
+
+    def getLabel(self, i):
+        return self.label[i - 1]
+
+    def _rotateS(self):
+        self.label = [self.getLabel(i) for i in [5, 1, 3, 4, 6, 2]]
+
+    def _rotateN(self):
+        self.label = [self.getLabel(i) for i in [2, 6, 3, 4, 1, 5]]
+
+    def _rotateE(self):
+        self.label = [self.getLabel(i) for i in [4, 2, 1, 6, 5, 3]]
+
+    def _rotateW(self):
+        self.label = [self.getLabel(i) for i in [3, 2, 6, 1, 5, 4]]
+
+    def _spinPos(self):
+        self.label = [self.getLabel(i) for i in [1, 4, 2, 5, 3, 6]]
+
+    def _spinNeg(self):
+        self.label = [self.getLabel(i) for i in [1, 3, 5, 2, 4, 6]]
+
+    def rotate(self, rotates):
+        for r in rotates:
+            if r == 'S':
+                self._rotateS()
+            elif r == 'N':
+                self._rotateN()
+            elif r == 'E':
+                self._rotateE()
+            elif r == 'W':
+                self._rotateW()
+            elif r == 'T':
+                self._spinPos()
+            elif r == 'B':
+                self._spinNeg()
+
+    def matchTopFront(self, top, front):
+        iTop = self.label.index(top) + 1
+        topRot = {1: '', 2: 'N', 3: 'W', 4: 'E', 5: 'S', 6: 'SS'}
+        self.rotate(topRot[iTop])
+
+        iFront = self.label.index(front) + 1
+        frontRot = {2: '', 3: 'B', 4: 'T', 5: 'TT'}
+        # top, front ???????????´???????????¢??????????????´??????iFront???1???6?????????
+        try:
+            self.rotate(frontRot[iFront])
+            return True
+        except KeyError:
+            return False
+
+    def copy(self):
+        return Dice(self.label[:])
+
+    def _equalWithoutOverlap(self, other):
+        if other.matchTopFront(self.getLabel(1), self.getLabel(2)):
+            return True if self.label == other.label else False
+        else:
+            return False
+
+    def _equalWithOverlap(self, other):
+        # ?????¢???????????¢?????\????????§6????????????
+        for rs in ['', 'S', 'N', 'E', 'W', 'SS']:
+            tmp = self.copy()
+            for r in rs:
+                tmp.rotate(r)
+            # ?????¢????????¢????????§??????
+            top = tmp.getLabel(1) == other.getLabel(1)
+            bottom = tmp.getLabel(6) == other.getLabel(6)
+
+            # ??´??¢?????????????????????????????????????????¢??????????????????????????´??????????????°??????
+            # top and bottom ???False??????????????????????????????????????§?????¢??°?????????
+            def _side():
+                result, n = False, 3
+                while not result and n > 0:
+                    if tmp.label[1:5] == other.label[1:5]:
+                        result = True
+                    else:
+                        tmp.rotate('T')
+                        n -= 1
+                return result
+
+            if top and bottom and _side():
+                return True
+        else:
+            return False
+
+    def __eq__(self, other):
+        # ????????????????????????????????´?????????????????´???
+        if set(self.label) != set(other.label):
+            return False
+        # ???????????????????????´???
+        elif len(self.label) == len(set(self.label)):
+            return self._equalWithoutOverlap(other)
+        # ???????????????????????´???
+        else:
+            return self._equalWithOverlap(other)
+
+
+def main():
+    n = input()
+    faces = [map(int, raw_input().split()) for _ in xrange(n)]
+    for f1, f2 in combinations(faces, 2):
+        if f1 == f2 or Dice(f1) == Dice(f2):
+            print 'No'
+            break
+    else:
+        print 'Yes'
+
+
+if __name__ == '__main__':
+    main()

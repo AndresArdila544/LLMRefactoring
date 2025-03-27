@@ -1,0 +1,1 @@
+The program is designed to take a number of rows and columns as input and then calculate and print the sum of each row in an array, then prints the final sum of all the row sums at the end of the program run.

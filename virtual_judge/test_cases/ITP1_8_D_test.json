@@ -1,0 +1,152 @@
+[
+    {
+        "serial": 1,
+        "in": "vanceknowledgetoad\nadvance",
+        "out": "Yes"
+    },
+    {
+        "serial": 2,
+        "in": "vanceknowledgetoad\nadvanced",
+        "out": "No"
+    },
+    {
+        "serial": 3,
+        "in": "xyzx\nx",
+        "out": "Yes"
+    },
+    {
+        "serial": 4,
+        "in": "xyzx\nz",
+        "out": "Yes"
+    },
+    {
+        "serial": 5,
+        "in": "xyzx\nxyz",
+        "out": "Yes"
+    },
+    {
+        "serial": 6,
+        "in": "xyzx\nxyzx",
+        "out": "Yes"
+    },
+    {
+        "serial": 7,
+        "in": "xyzx\nxx",
+        "out": "Yes"
+    },
+    {
+        "serial": 8,
+        "in": "xyzx\nzyx",
+        "out": "No"
+    },
+    {
+        "serial": 9,
+        "in": "xyzx\nxxz",
+        "out": "No"
+    },
+    {
+        "serial": 10,
+        "in": "xyzx\nyzxx",
+        "out": "Yes"
+    },
+    {
+        "serial": 11,
+        "in": "abaabbaabbaaaaaabbaabba\nxyz",
+        "out": "No"
+    },
+    {
+        "serial": 12,
+        "in": "abaabbaabbaaaaaabbaabba\naabbaabaabb",
+        "out": "Yes"
+    },
+    {
+        "serial": 13,
+        "in": "abaabbaabbaaaaaabbaabba\naaaaaabbaabbaabaabb",
+        "out": "Yes"
+    },
+    {
+        "serial": 14,
+        "in": "abaabbaabbaaaaaabbaabba\naaaaaabbaaabbaabaabb",
+        "out": "No"
+    },
+    {
+        "serial": 15,
+        "in": "abcde\na",
+        "out": "Yes"
+    },
+    {
+        "serial": 16,
+        "in": "abcde\nx",
+        "out": "No"
+    },
+    {
+        "serial": 17,
+        "in": "abcde\nea",
+        "out": "Yes"
+    },
+    {
+        "serial": 18,
+        "in": "abcde\nabcde",
+        "out": "Yes"
+    },
+    {
+        "serial": 19,
+        "in": "abcde\nbcdea",
+        "out": "Yes"
+    },
+    {
+        "serial": 20,
+        "in": "abcde\ncdeab",
+        "out": "Yes"
+    },
+    {
+        "serial": 21,
+        "in": "abcde\ndeabc",
+        "out": "Yes"
+    },
+    {
+        "serial": 22,
+        "in": "abcde\neabcd",
+        "out": "Yes"
+    },
+    {
+        "serial": 23,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\nx",
+        "out": "No"
+    },
+    {
+        "serial": 24,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\nja",
+        "out": "Yes"
+    },
+    {
+        "serial": 25,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\njjjjjjjjjja",
+        "out": "Yes"
+    },
+    {
+        "serial": 26,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\nab",
+        "out": "Yes"
+    },
+    {
+        "serial": 27,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\nhiiiiiiiiiijjjjjjjjjjaaaaaaaaab",
+        "out": "No"
+    },
+    {
+        "serial": 28,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\nd",
+        "out": "Yes"
+    },
+    {
+        "serial": 29,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\naaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj",
+        "out": "Yes"
+    },
+    {
+        "serial": 30,
+        "in": "aaaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjj\naaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeeeeffffffffffgggggggggghhhhhhhhhhiiiiiiiiiijjjjjjjjjjaaaaa",
+        "out": "Yes"
+    }
+]

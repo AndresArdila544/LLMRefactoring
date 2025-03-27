@@ -1,0 +1,22 @@
+[
+    {
+        "serial": 1,
+        "in": "aabc\n3\n1\n2\n1\nvwxyz\n2\n3\n4\n-",
+        "out": "aabc\nxyzvw"
+    },
+    {
+        "serial": 2,
+        "in": "aaa\n2\n1\n2\naaaax\n1\n1\naaaax\n2\n1\n2\naaaax\n3\n1\n2\n3\naaaax\n4\n1\n2\n3\n4\n-",
+        "out": "aaa\naaaxa\naxaaa\naaaxa\naaaax"
+    },
+    {
+        "serial": 3,
+        "in": "abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij\n100\n2\n10\n3\n3\n7\n8\n10\n11\n13\n9\n2\n10\n3\n3\n7\n8\n10\n11\n13\n9\n2\n10\n3\n3\n7\n8\n10\n11\n13\n9\n2\n10\n1\n3\n17\n81\n10\n11\n13\n9\n2\n10\n3\n3\n78\n8\n10\n11\n133\n9\n2\n101\n3\n3\n7\n8\n10\n11\n13\n9\n2\n198\n3\n3\n7\n8\n10\n111\n13\n9\n2\n10\n3\n3\n7\n88\n10\n11\n50\n9\n2\n10\n1\n3\n7\n8\n10\n11\n13\n9\n2\n10\n3\n3\n1\n8\n10\n11\n13\n9\n-",
+        "out": "abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij"
+    },
+    {
+        "serial": 4,
+        "in": "aaafieiifififaiefaefaef\n5\n1\n1\n2\n5\n19\naaaffffififififoaieaiefopppzejfiaeiziisffe\n10\n2\n4\n5\n7\n8\n1\n1\n10\n3\n5\naaazzzzzlllzqqererererefefmmmmvmvmvnajeifmnnzz\n10\n30\n20\n10\n40\n4\n4\n4\n5\n6\n2\naaaaxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n20\n3\n3\n3\n3\n4\n1\n2\n4\n1\n10\n20\n4\n1\n1\n1\n3\n4\n5\n6\n30\nabcdefghijklmnopqrstuvwxyz\n10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n-",
+        "out": "eiifififaiefaefaefaaafi\nfffififififoaieaiefopppzejfiaeiziisffeaaaf\nmvnajeifmnnzzaaazzzzzlllzqqererererefefmmmmvmv\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\ndefghijklmnopqrstuvwxyzabc"
+    }
+]

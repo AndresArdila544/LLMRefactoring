@@ -1,0 +1,15 @@
+Here is the refactored version of the program:
+
+import sys
+
+def to_str(symbol, num):
+    return f"{symbol} {num}"
+
+if __name__ == '__main__':
+    symbols = ['S','H','C','D']
+    cards = [to_str(x,y) for x in symbols for y in range(1,14)]
+    n = int(input())
+    if n == 52: sys.exit()
+    for card in input().split():
+        cards.remove(card)
+    print('\n'.join(cards))

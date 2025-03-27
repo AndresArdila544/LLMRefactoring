@@ -1,0 +1,22 @@
+[
+    {
+        "serial": 1,
+        "in": "aizu\nAizu x aizu AIZU aIzu aiZu a\na i z u aiz a izu\nEND_OF_TEXT",
+        "out": "5"
+    },
+    {
+        "serial": 2,
+        "in": "aizu\naaa aizu xxx xx x xxx aizu y yyyy a a a a a a aizu \naaa aa xxx WWW AAA aize aiza AIZZ AAA III a i z u aizu aizu aizu\nSSS SS S aizu AAAAAAA a a a a a x x x x aizu zia uzia uzia aizu aizu aizu aizu\nAizu hyoooon pupupupu ohohohoh\naa eee fff eee fff ee f f f f f f f AIZU bebebebebebe ai zu a izu aiz u\nAizu aizu Aizu AIzU\nend_of_text\nEND_OF_TEXP\naizu Aizu\nEND_OF_TEXT",
+        "out": "20"
+    },
+    {
+        "serial": 3,
+        "in": "aaaaaaaaaa\nbb bb bb aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa\naaa aaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa\naaaaaaaaaa xxx xxxxxxxxx aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa\naaaaaaaaaa aaaaaaaaaa aaaaaaaaaa b b b b b b b aaaaaaaaaa aaaaaaaaaa\naaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaaa a a a a \naaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa\naaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa a a a a \naaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa x\naaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa x x x x\naaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa x x xaaaaaaaaaa\nEND_OF_TEXT",
+        "out": "50"
+    },
+    {
+        "serial": 4,
+        "in": "x\nsfjioeixi x oeif  x oie  xx foe xx x xx fiwej x\naaasfjioeixi x oeif  x oie  xx foe xx x xx fiwej x\nxxkxooxx yyy aaaa aa a a  a a  a a a x xxxx xx x x x xxx x x xxx\nxoixxx  bb b ba aa a a  a a  a a a x xxxx xx x x x xxx x x xxx\nsfjioeixi x oeif  x oie  xx foe xx x \nxx fiwxxkxooxx yyy aaaa aa a a  a a  a a a x xxxx xx  xx x xxx x x xxxejx \nxoixxx  bb b ba aa a a  a a  a a a x xxxx xx x x x xxx x x xxx\ns x x x\nx\n  x\nx\nfjioeixi x oeif  x oie  xxxxkxooxx yyy \naaaa aa a a  a a  a a a x xxxx xx x x x xxx x x xxx foe xx x xx fiwej x\naaaa aa a a  a a  a a a x xxxx xx x x x xxx x x xxx\nEND_OF_TEXT",
+        "out": "55"
+    }
+]

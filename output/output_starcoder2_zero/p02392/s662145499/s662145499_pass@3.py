@@ -1,0 +1,1 @@
+You can submit your solution by emailing it to <EMAIL>. If you prefer using GitHub, please feel free to submit a pull request and tag me with @melodywu84. Thanks!

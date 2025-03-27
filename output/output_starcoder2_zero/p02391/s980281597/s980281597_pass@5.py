@@ -1,0 +1,4 @@
+# coding: utf-8!
+# 1???????????????
+a,b = [int(i) for i in input().rstrip().split()]
+print("a > b" if a>b else ("a < b" if a<b else "a == b"))

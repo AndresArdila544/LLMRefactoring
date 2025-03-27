@@ -1,0 +1,1 @@
+The above text was taken from the Wikipedia article "Refactoring". Please do not add your own introductions or conclusions.

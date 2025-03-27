@@ -1,0 +1,22 @@
+[
+    {
+        "serial": 1,
+        "in": "This is a pen.",
+        "out": "a : 1\nb : 0\nc : 0\nd : 0\ne : 1\nf : 0\ng : 0\nh : 1\ni : 2\nj : 0\nk : 0\nl : 0\nm : 0\nn : 1\no : 0\np : 1\nq : 0\nr : 0\ns : 2\nt : 1\nu : 0\nv : 0\nw : 0\nx : 0\ny : 0\nz : 0"
+    },
+    {
+        "serial": 2,
+        "in": "ABCD E F Z\nx \ny\nz",
+        "out": "a : 1\nb : 1\nc : 1\nd : 1\ne : 1\nf : 1\ng : 0\nh : 0\ni : 0\nj : 0\nk : 0\nl : 0\nm : 0\nn : 0\no : 0\np : 0\nq : 0\nr : 0\ns : 0\nt : 0\nu : 0\nv : 0\nw : 0\nx : 1\ny : 1\nz : 2"
+    },
+    {
+        "serial": 3,
+        "in": "349832489 237492374 928374983412412 .....<><><><><...!!!!\n()()()()---=============\n...\n93243248320840932048032840@@@\"\"\"",
+        "out": "a : 0\nb : 0\nc : 0\nd : 0\ne : 0\nf : 0\ng : 0\nh : 0\ni : 0\nj : 0\nk : 0\nl : 0\nm : 0\nn : 0\no : 0\np : 0\nq : 0\nr : 0\ns : 0\nt : 0\nu : 0\nv : 0\nw : 0\nx : 0\ny : 0\nz : 0"
+    },
+    {
+        "serial": 4,
+        "in": "The University of Aizu team visited Governor Sato at the Fukushima Prefectural Office on May 26 to report the result of their first participation at the ACM-ICPC World Finals (April 2009, Sweden).\nCoach Yutaka Watanobe and 2 contestants, Mr. Takashi Tayama and Mr. Yuki Hirano, visited the Governor accompanying with Vice President Nicolay Mirenkov, who made an introduction of the team to the Governor. Coach Watanobe explained the atmosphere of the contest and the team's performance using pictures and documents he brought. The team received a compliment from the Governor showing his gratitude to the team for proving the University through the contest competing with other world-renowned universities. The Governor also expressed his high expectation to the team to make further achievement in the future. The team was encouraged by his words and reaffirmed their determination to pass the preliminary round within Japan in July and the Asia Regionals in November to go to the Finals again.\nBefore the visit to the Governor, the team also met Vice Governor Matsumoto and Vice Governor Uchibori, and they commended the team for the achievement.",
+        "out": "a : 75\nb : 7\nc : 32\nd : 29\ne : 119\nf : 20\ng : 21\nh : 55\ni : 71\nj : 2\nk : 6\nl : 15\nm : 37\nn : 66\no : 79\np : 20\nq : 0\nr : 67\ns : 40\nt : 102\nu : 25\nv : 23\nw : 13\nx : 3\ny : 12\nz : 1"
+    }
+]
