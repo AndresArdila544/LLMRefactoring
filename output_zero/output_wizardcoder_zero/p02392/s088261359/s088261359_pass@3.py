@@ -1,0 +1,1 @@
+print('Yes' if min(a,b,c) == max(min(a,b)) else 'No')

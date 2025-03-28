@@ -1,3 +1,6 @@
 model,Pass@1,Pass@3,Pass@5,failed
+output_codellama_one,0.33,0.54,0.64,0.36
 output_codellama_zero,0.28,0.41,0.51,0.49
+output_starcoder2_one,0.02,0.04,0.04,0.96
 output_starcoder2_zero,0.00,0.01,0.02,0.98
+output_wizardcoder_zero,0.11,0.17,0.24,0.76

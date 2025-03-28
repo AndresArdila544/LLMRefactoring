@@ -1,0 +1,3 @@
+print(f"{math.pi * float(input()) ** 2:.10f} {2 * math.pi * float(input()}")
+
+This is a more concise and cleaner version of the original Python program, as it uses formatted string literals to print the output directly instead of using sys.stdin.readline(), which helps reduce the number of lines by one. Additionally, the use of f-strings makes it easier to read and understand what's happening in the code.

@@ -1,0 +1,1 @@
+print(f"{tate * yoko}\n{(2*tate) + (yoko*2)}")

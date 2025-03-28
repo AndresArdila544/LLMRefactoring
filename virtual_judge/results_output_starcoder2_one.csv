@@ -1,0 +1,363 @@
+filename,problem_id,passed,total,status,error_message
+s082356343_pass@1.py,ITP1_10_A,0,8,Failed,
+s082356343_pass@3.py,ITP1_10_A,0,8,Failed,
+s082356343_pass@5.py,ITP1_10_A,0,8,Failed,
+s996953065_pass@1.py,ITP1_10_A,0,8,Failed,
+s996953065_pass@3.py,ITP1_10_A,0,8,Failed,
+s996953065_pass@5.py,ITP1_10_A,0,8,Failed,
+s725231104_pass@1.py,ITP1_10_B,0,4,Failed,
+s725231104_pass@3.py,ITP1_10_B,0,4,Failed,
+s725231104_pass@5.py,ITP1_10_B,0,4,Failed,
+s901218275_pass@1.py,ITP1_10_B,0,4,Failed,
+s901218275_pass@3.py,ITP1_10_B,0,4,Failed,
+s901218275_pass@5.py,ITP1_10_B,0,4,Failed,
+s010390929_pass@1.py,ITP1_10_C,0,4,Failed,
+s010390929_pass@3.py,ITP1_10_C,0,4,Failed,
+s010390929_pass@5.py,ITP1_10_C,0,4,Failed,
+s142516772_pass@1.py,ITP1_10_C,0,4,Failed,
+s142516772_pass@3.py,ITP1_10_C,0,4,Failed,
+s142516772_pass@5.py,ITP1_10_C,0,4,Failed,
+s011154230_pass@1.py,ITP1_10_D,0,14,Failed,
+s011154230_pass@3.py,ITP1_10_D,0,14,Failed,
+s011154230_pass@5.py,ITP1_10_D,0,14,Failed,
+s625777569_pass@1.py,ITP1_10_D,0,14,Failed,
+s625777569_pass@3.py,ITP1_10_D,0,14,Failed,
+s625777569_pass@5.py,ITP1_10_D,0,14,Failed,
+s396380319_pass@1.py,ITP1_11_A,0,14,Failed,
+s396380319_pass@3.py,ITP1_11_A,0,14,Failed,
+s396380319_pass@5.py,ITP1_11_A,0,14,Failed,
+s543580433_pass@1.py,ITP1_11_A,0,14,Failed,
+s543580433_pass@3.py,ITP1_11_A,0,14,Failed,
+s543580433_pass@5.py,ITP1_11_A,0,14,Failed,
+s650026017_pass@1.py,ITP1_11_B,0,3,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02384\s650026017\s650026017_pass@1.py"", line 1
+    Please note that this code is NOT written by me. I just want you to refactor it for me! :-)
+                                                                                              ^
+SyntaxError: unmatched ')'"
+s650026017_pass@3.py,ITP1_11_B,0,3,Failed,
+s650026017_pass@5.py,ITP1_11_B,0,3,Failed,
+s661652946_pass@1.py,ITP1_11_B,0,3,Failed,
+s661652946_pass@3.py,ITP1_11_B,0,3,Failed,
+s661652946_pass@5.py,ITP1_11_B,0,3,Failed,"Traceback (most recent call last):
+  File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02384\s661652946\s661652946_pass@5.py"", line 2, in <module>
+    x1, y1, x2, y2 = map(float, input().split())
+    ^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 4)"
+s095287762_pass@1.py,ITP1_11_C,0,35,Failed,
+s095287762_pass@3.py,ITP1_11_C,0,35,Failed,
+s095287762_pass@5.py,ITP1_11_C,0,35,Failed,
+s784239905_pass@1.py,ITP1_11_C,0,35,Failed,
+s784239905_pass@3.py,ITP1_11_C,0,35,Failed,
+s784239905_pass@5.py,ITP1_11_C,0,35,Failed,
+s354294286_pass@1.py,ITP1_11_D,0,20,Failed,
+s354294286_pass@3.py,ITP1_11_D,0,20,Failed,
+s354294286_pass@5.py,ITP1_11_D,0,20,Failed,
+s998928721_pass@1.py,ITP1_11_D,0,20,Failed,
+s998928721_pass@3.py,ITP1_11_D,0,20,Failed,
+s998928721_pass@5.py,ITP1_11_D,0,20,Failed,
+s512922599_pass@1.py,ITP1_1_B,0,4,Failed,
+s512922599_pass@3.py,ITP1_1_B,0,4,Failed,
+s512922599_pass@5.py,ITP1_1_B,0,4,Failed,
+s948994129_pass@1.py,ITP1_1_B,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02388\s948994129\s948994129_pass@1.py"", line 1
+    Refactoring Challenge 2:
+                ^^^^^^^^^
+SyntaxError: invalid syntax"
+s948994129_pass@3.py,ITP1_1_B,0,4,Failed,
+s948994129_pass@5.py,ITP1_1_B,0,4,Failed,
+s006670201_pass@1.py,ITP1_1_C,0,2,Failed,
+s006670201_pass@3.py,ITP1_1_C,0,2,Failed,
+s006670201_pass@5.py,ITP1_1_C,0,2,Failed,
+s342764925_pass@1.py,ITP1_1_C,0,2,Failed,
+s342764925_pass@3.py,ITP1_1_C,0,2,Failed,
+s342764925_pass@5.py,ITP1_1_C,0,2,Failed,
+s435912433_pass@1.py,ITP1_1_D,0,10,Failed,
+s435912433_pass@3.py,ITP1_1_D,0,10,Failed,
+s435912433_pass@5.py,ITP1_1_D,0,10,Failed,
+s838037566_pass@1.py,ITP1_1_D,0,10,Failed,
+s838037566_pass@3.py,ITP1_1_D,0,10,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02390\s838037566\s838037566_pass@3.py"", line 1
+    Sample input and output:
+           ^^^^^
+SyntaxError: invalid syntax"
+s838037566_pass@5.py,ITP1_1_D,0,10,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02390\s838037566\s838037566_pass@5.py"", line 1
+    """"""
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 8)"
+s258130823_pass@1.py,ITP1_2_A,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02391\s258130823\s258130823_pass@1.py"", line 1
+    Refactored:
+               ^
+SyntaxError: invalid syntax"
+s258130823_pass@3.py,ITP1_2_A,0,4,Failed,
+s258130823_pass@5.py,ITP1_2_A,0,4,Failed,
+s859035826_pass@1.py,ITP1_2_A,0,4,Failed,
+s859035826_pass@3.py,ITP1_2_A,0,4,Failed,
+s859035826_pass@5.py,ITP1_2_A,0,4,Failed,
+s255090983_pass@1.py,ITP1_2_B,0,5,Failed,
+s255090983_pass@3.py,ITP1_2_B,0,5,Failed,
+s255090983_pass@5.py,ITP1_2_B,0,5,Failed,
+s413915184_pass@1.py,ITP1_2_B,0,5,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02392\s413915184\s413915184_pass@1.py"", line 1
+    <|begin_solution|>
+    ^
+SyntaxError: invalid syntax"
+s413915184_pass@3.py,ITP1_2_B,0,5,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02392\s413915184\s413915184_pass@3.py"", line 1
+    Here is a sample input and output:
+              ^^^^^^
+SyntaxError: invalid syntax"
+s413915184_pass@5.py,ITP1_2_B,0,5,Failed,
+s004821086_pass@1.py,ITP1_2_C,0,5,Failed,
+s004821086_pass@3.py,ITP1_2_C,0,5,Failed,
+s004821086_pass@5.py,ITP1_2_C,0,5,Failed,
+s127780162_pass@1.py,ITP1_2_C,0,5,Failed,
+s127780162_pass@3.py,ITP1_2_C,0,5,Failed,
+s127780162_pass@5.py,ITP1_2_C,0,5,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02393\s127780162\s127780162_pass@5.py"", line 1
+    This is an example of refactoring; reducing its lines and complexity, while preserving its functionality. Example:
+               ^^^^^^^
+SyntaxError: invalid syntax"
+s693269647_pass@1.py,ITP1_2_D,0,25,Failed,
+s693269647_pass@3.py,ITP1_2_D,0,25,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02394\s693269647\s693269647_pass@3.py"", line 1
+    Here is the original program:
+                ^^^^^^^^
+SyntaxError: invalid syntax"
+s693269647_pass@5.py,ITP1_2_D,0,25,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02394\s693269647\s693269647_pass@5.py"", line 1
+    Here is a template for your answer:
+              ^^^^^^^^
+SyntaxError: invalid syntax"
+s908439862_pass@1.py,ITP1_2_D,0,25,Failed,
+s908439862_pass@3.py,ITP1_2_D,0,25,Failed,
+s908439862_pass@5.py,ITP1_2_D,0,25,Failed,
+s993872842_pass@1.py,ITP1_3_B,0,1,Failed,
+s993872842_pass@3.py,ITP1_3_B,0,1,Failed,
+s993872842_pass@5.py,ITP1_3_B,0,1,Failed,
+s996883089_pass@1.py,ITP1_3_B,0,1,Failed,
+s996883089_pass@3.py,ITP1_3_B,0,1,Failed,
+s996883089_pass@5.py,ITP1_3_B,0,1,Failed,
+s006645469_pass@1.py,ITP1_3_C,0,1,Failed,
+s006645469_pass@3.py,ITP1_3_C,1,1,Passed,
+s006645469_pass@5.py,ITP1_3_C,0,1,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02397\s006645469\s006645469_pass@5.py"", line 1
+    Here is the original Python program:
+                ^^^^^^^^
+SyntaxError: invalid syntax"
+s541731237_pass@1.py,ITP1_3_C,0,1,Failed,
+s541731237_pass@3.py,ITP1_3_C,0,1,Failed,
+s541731237_pass@5.py,ITP1_3_C,0,1,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02397\s541731237\s541731237_pass@5.py"", line 1
+    Here is the refactored version:
+                ^^^^^^^^^^
+SyntaxError: invalid syntax"
+s096048309_pass@1.py,ITP1_3_D,0,20,Failed,
+s096048309_pass@3.py,ITP1_3_D,0,20,Failed,
+s096048309_pass@5.py,ITP1_3_D,0,20,Failed,
+s764158731_pass@1.py,ITP1_3_D,0,20,Failed,
+s764158731_pass@3.py,ITP1_3_D,0,20,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02398\s764158731\s764158731_pass@3.py"", line 1
+    Here is the refactored version of the code:
+                ^^^^^^^^^^
+SyntaxError: invalid syntax"
+s764158731_pass@5.py,ITP1_3_D,0,20,Failed,
+s044588462_pass@1.py,ITP1_4_A,0,10,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02399\s044588462\s044588462_pass@1.py"", line 21
+    I used the map() function to convert the string into numbers, so that we can use integer division and modular operators. I also used format specifiers to print integers and floating point values in a single line, eliminating the need for multiple print statements.
+         ^
+SyntaxError: invalid syntax"
+s044588462_pass@3.py,ITP1_4_A,0,10,Failed,
+s044588462_pass@5.py,ITP1_4_A,0,10,Failed,
+s097035551_pass@1.py,ITP1_4_A,0,10,Failed,
+s097035551_pass@3.py,ITP1_4_A,0,10,Failed,
+s097035551_pass@5.py,ITP1_4_A,0,10,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02399\s097035551\s097035551_pass@5.py"", line 1
+    Here is an example of a program that works as intended, but I need you to refactor it into fewer lines and complexity:
+                     ^
+SyntaxError: invalid syntax"
+s501232072_pass@1.py,ITP1_4_B,0,5,Failed,
+s501232072_pass@3.py,ITP1_4_B,0,5,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02400\s501232072\s501232072_pass@3.py"", line 1
+    The original code is on github: https://github.com/kylelobo/The-Documentation-Compendium/blob/master/Python/Example%201.py
+                                                                                                                           ^
+SyntaxError: invalid decimal literal"
+s501232072_pass@5.py,ITP1_4_B,0,5,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02400\s501232072\s501232072_pass@5.py"", line 1
+    <|text|>
+    ^
+SyntaxError: invalid syntax"
+s789703302_pass@1.py,ITP1_4_B,0,5,Failed,
+s789703302_pass@3.py,ITP1_4_B,0,5,Failed,
+s789703302_pass@5.py,ITP1_4_B,0,5,Failed,
+s083799619_pass@1.py,ITP1_4_C,0,5,Failed,
+s083799619_pass@3.py,ITP1_4_C,0,5,Failed,
+s083799619_pass@5.py,ITP1_4_C,0,5,Failed,
+s644599577_pass@1.py,ITP1_4_C,0,5,Failed,
+s644599577_pass@3.py,ITP1_4_C,0,5,Failed,
+s644599577_pass@5.py,ITP1_4_C,0,5,Failed,
+s490085492_pass@1.py,ITP1_4_D,20,20,Passed,
+s490085492_pass@3.py,ITP1_4_D,0,20,Failed,
+s490085492_pass@5.py,ITP1_4_D,0,20,Failed,
+s589457088_pass@1.py,ITP1_4_D,0,20,Failed,
+s589457088_pass@3.py,ITP1_4_D,0,20,Failed,
+s589457088_pass@5.py,ITP1_4_D,0,20,Failed,
+s069952946_pass@1.py,ITP1_5_A,0,4,Failed,
+s069952946_pass@3.py,ITP1_5_A,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02403\s069952946\s069952946_pass@3.py"", line 1
+    Refactored code:
+               ^^^^
+SyntaxError: invalid syntax"
+s069952946_pass@5.py,ITP1_5_A,0,4,Failed,
+s482014715_pass@1.py,ITP1_5_A,0,4,Failed,
+s482014715_pass@3.py,ITP1_5_A,0,4,Failed,
+s482014715_pass@5.py,ITP1_5_A,0,4,Failed,
+s054233732_pass@1.py,ITP1_5_B,2,2,Passed,
+s054233732_pass@3.py,ITP1_5_B,0,2,Failed,
+s054233732_pass@5.py,ITP1_5_B,0,2,Failed,
+s738024971_pass@1.py,ITP1_5_B,0,2,Failed,
+s738024971_pass@3.py,ITP1_5_B,0,2,Failed,
+s738024971_pass@5.py,ITP1_5_B,0,2,Failed,
+s041933512_pass@1.py,ITP1_5_C,0,4,Failed,
+s041933512_pass@3.py,ITP1_5_C,0,4,Failed,
+s041933512_pass@5.py,ITP1_5_C,0,4,Failed,
+s756477557_pass@1.py,ITP1_5_C,0,4,Failed,
+s756477557_pass@3.py,ITP1_5_C,0,4,Failed,
+s756477557_pass@5.py,ITP1_5_C,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02405\s756477557\s756477557_pass@5.py"", line 1
+    Here is a sample input:
+              ^^^^^^
+SyntaxError: invalid syntax"
+s185813191_pass@1.py,ITP1_5_D,0,8,Failed,
+s185813191_pass@3.py,ITP1_5_D,0,8,Failed,
+s185813191_pass@5.py,ITP1_5_D,0,8,Failed,
+s285381016_pass@1.py,ITP1_5_D,0,8,Failed,
+s285381016_pass@3.py,ITP1_5_D,0,8,Failed,
+s285381016_pass@5.py,ITP1_5_D,0,8,Failed,
+s277592678_pass@1.py,ITP1_6_A,0,4,Failed,
+s277592678_pass@3.py,ITP1_6_A,0,4,Failed,
+s277592678_pass@5.py,ITP1_6_A,0,4,Failed,
+s569329761_pass@1.py,ITP1_6_A,0,4,Failed,
+s569329761_pass@3.py,ITP1_6_A,0,4,Failed,
+s569329761_pass@5.py,ITP1_6_A,0,4,Failed,
+s353862024_pass@1.py,ITP1_6_B,1,4,Failed,
+s353862024_pass@3.py,ITP1_6_B,1,4,Failed,
+s353862024_pass@5.py,ITP1_6_B,1,4,Failed,
+s765571034_pass@1.py,ITP1_6_B,1,4,Failed,
+s765571034_pass@3.py,ITP1_6_B,1,4,Failed,
+s765571034_pass@5.py,ITP1_6_B,1,4,Failed,
+s323772822_pass@1.py,ITP1_6_C,0,5,Failed,
+s323772822_pass@3.py,ITP1_6_C,0,5,Failed,
+s323772822_pass@5.py,ITP1_6_C,0,5,Failed,
+s421142068_pass@1.py,ITP1_6_C,0,5,Failed,
+s421142068_pass@3.py,ITP1_6_C,0,5,Failed,
+s421142068_pass@5.py,ITP1_6_C,0,5,Failed,
+s122031066_pass@1.py,ITP1_6_D,0,18,Failed,
+s122031066_pass@3.py,ITP1_6_D,0,18,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02410\s122031066\s122031066_pass@3.py"", line 1
+    Here is the refactored Python program:
+                ^^^^^^^^^^
+SyntaxError: invalid syntax"
+s122031066_pass@5.py,ITP1_6_D,0,18,Failed,
+s919326051_pass@1.py,ITP1_6_D,0,18,Failed,
+s919326051_pass@3.py,ITP1_6_D,0,18,Failed,
+s919326051_pass@5.py,ITP1_6_D,0,18,Failed,
+s241547485_pass@1.py,ITP1_7_A,0,4,Failed,
+s241547485_pass@3.py,ITP1_7_A,0,4,Failed,
+s241547485_pass@5.py,ITP1_7_A,0,4,Failed,
+s839935249_pass@1.py,ITP1_7_A,0,4,Failed,
+s839935249_pass@3.py,ITP1_7_A,0,4,Failed,
+s839935249_pass@5.py,ITP1_7_A,0,4,Failed,
+s582875838_pass@1.py,ITP1_7_B,0,4,Failed,
+s582875838_pass@3.py,ITP1_7_B,0,4,Failed,
+s582875838_pass@5.py,ITP1_7_B,0,4,Failed,
+s603658843_pass@1.py,ITP1_7_B,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02412\s603658843\s603658843_pass@1.py"", line 2
+    using namespace std;
+          ^^^^^^^^^
+SyntaxError: invalid syntax"
+s603658843_pass@3.py,ITP1_7_B,0,4,Failed,
+s603658843_pass@5.py,ITP1_7_B,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02412\s603658843\s603658843_pass@5.py"", line 1
+    '''
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 5)"
+s186783952_pass@1.py,ITP1_7_C,0,5,Failed,
+s186783952_pass@3.py,ITP1_7_C,0,5,Failed,
+s186783952_pass@5.py,ITP1_7_C,0,5,Failed,
+s214129181_pass@1.py,ITP1_7_C,0,5,Failed,
+s214129181_pass@3.py,ITP1_7_C,0,5,Failed,
+s214129181_pass@5.py,ITP1_7_C,0,5,Failed,
+s370902130_pass@1.py,ITP1_7_D,0,16,Failed,
+s370902130_pass@3.py,ITP1_7_D,0,16,Failed,
+s370902130_pass@5.py,ITP1_7_D,0,16,Failed,
+s373821703_pass@1.py,ITP1_7_D,0,16,Failed,
+s373821703_pass@3.py,ITP1_7_D,0,16,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02414\s373821703\s373821703_pass@3.py"", line 10
+    print(col, end="" "")
+                  ^
+SyntaxError: invalid syntax"
+s373821703_pass@5.py,ITP1_7_D,0,16,Failed,
+s287029907_pass@1.py,ITP1_8_A,0,4,Failed,
+s287029907_pass@3.py,ITP1_8_A,0,4,Failed,
+s287029907_pass@5.py,ITP1_8_A,0,4,Failed,
+s421803874_pass@1.py,ITP1_8_A,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02415\s421803874\s421803874_pass@1.py"", line 2
+    using namespace std;
+          ^^^^^^^^^
+SyntaxError: invalid syntax"
+s421803874_pass@3.py,ITP1_8_A,0,4,Failed,
+s421803874_pass@5.py,ITP1_8_A,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02415\s421803874\s421803874_pass@5.py"", line 1
+    """"""
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 1)"
+s368208835_pass@1.py,ITP1_8_B,0,4,Failed,
+s368208835_pass@3.py,ITP1_8_B,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02416\s368208835\s368208835_pass@3.py"", line 1
+    The text should start with a blank line after it.
+        ^^^^
+SyntaxError: invalid syntax"
+s368208835_pass@5.py,ITP1_8_B,0,4,Failed,
+s999569353_pass@1.py,ITP1_8_B,0,4,Failed,
+s999569353_pass@3.py,ITP1_8_B,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02416\s999569353\s999569353_pass@3.py"", line 1
+    Here is the original Python program:
+                ^^^^^^^^
+SyntaxError: invalid syntax"
+s999569353_pass@5.py,ITP1_8_B,0,4,Failed,
+s040490758_pass@1.py,ITP1_8_C,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02417\s040490758\s040490758_pass@1.py"", line 1
+    The original program: 
+        ^^^^^^^^
+SyntaxError: invalid syntax"
+s040490758_pass@3.py,ITP1_8_C,0,4,Failed,
+s040490758_pass@5.py,ITP1_8_C,0,4,Failed,
+s828189570_pass@1.py,ITP1_8_C,0,4,Failed,
+s828189570_pass@3.py,ITP1_8_C,0,4,Failed,
+s828189570_pass@5.py,ITP1_8_C,0,4,Failed,
+s051392851_pass@1.py,ITP1_8_D,0,30,Failed,
+s051392851_pass@3.py,ITP1_8_D,0,30,Failed,
+s051392851_pass@5.py,ITP1_8_D,0,30,Failed,
+s946875575_pass@1.py,ITP1_8_D,0,30,Failed,
+s946875575_pass@3.py,ITP1_8_D,0,30,Failed,
+s946875575_pass@5.py,ITP1_8_D,0,30,Failed,
+s171484205_pass@1.py,ITP1_9_A,0,4,Failed,
+s171484205_pass@3.py,ITP1_9_A,0,4,Failed,
+s171484205_pass@5.py,ITP1_9_A,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02419\s171484205\s171484205_pass@5.py"", line 1
+    Refactored version:
+               ^^^^^^^
+SyntaxError: invalid syntax"
+s250120618_pass@1.py,ITP1_9_A,0,4,Failed,"Traceback (most recent call last):
+  File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02419\s250120618\s250120618_pass@1.py"", line 1, in <module>
+    END_OF_TEXT
+NameError: name 'END_OF_TEXT' is not defined"
+s250120618_pass@3.py,ITP1_9_A,0,4,Failed,
+s250120618_pass@5.py,ITP1_9_A,0,4,Failed,
+s017269283_pass@1.py,ITP1_9_B,0,4,Failed,
+s017269283_pass@3.py,ITP1_9_B,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02420\s017269283\s017269283_pass@3.py"", line 1
+    """"""
+    ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 10)"
+s017269283_pass@5.py,ITP1_9_B,0,4,Failed,
+s198495041_pass@1.py,ITP1_9_B,0,4,Failed,
+s198495041_pass@3.py,ITP1_9_B,0,4,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02420\s198495041\s198495041_pass@3.py"", line 1
+    Refactored solution:
+               ^^^^^^^^
+SyntaxError: invalid syntax"
+s198495041_pass@5.py,ITP1_9_B,0,4,Failed,
+s118986297_pass@1.py,ITP1_9_C,0,4,Failed,
+s118986297_pass@3.py,ITP1_9_C,0,4,Failed,
+s118986297_pass@5.py,ITP1_9_C,0,4,Failed,
+s245865840_pass@1.py,ITP1_9_C,0,4,Failed,
+s245865840_pass@3.py,ITP1_9_C,0,4,Failed,
+s245865840_pass@5.py,ITP1_9_C,0,4,Failed,"Traceback (most recent call last):
+  File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02421\s245865840\s245865840_pass@5.py"", line 2, in <module>
+    x1, y1, x2, y2 = map(float, input().split())
+    ^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 4, got 1)"
+s820095650_pass@1.py,ITP1_9_D,0,16,Failed,
+s820095650_pass@3.py,ITP1_9_D,0,16,Failed,
+s820095650_pass@5.py,ITP1_9_D,0,16,Failed,
+s965611824_pass@1.py,ITP1_9_D,0,16,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02422\s965611824\s965611824_pass@1.py"", line 1
+    Sample Input:
+               ^
+SyntaxError: invalid syntax"
+s965611824_pass@3.py,ITP1_9_D,0,16,Failed,"File ""A:\LLMProject\repo\LLMRefactoring\virtual_judge\..\output\output_starcoder2_one\p02422\s965611824\s965611824_pass@3.py"", line 1
+    <|start_of_text|>
+    ^
+SyntaxError: invalid syntax"
+s965611824_pass@5.py,ITP1_9_D,0,16,Failed,
