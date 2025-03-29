@@ -1,0 +1,1 @@
+This question is from GRE Subject Test (2014) in Quantitative Reasoning section, with only two of the questions shown below.

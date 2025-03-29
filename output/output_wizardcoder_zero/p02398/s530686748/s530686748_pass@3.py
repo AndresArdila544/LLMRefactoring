@@ -1,0 +1,1 @@
+ans = sum(range(a, b+1, c) if (c != 0) else range(a, b+1))

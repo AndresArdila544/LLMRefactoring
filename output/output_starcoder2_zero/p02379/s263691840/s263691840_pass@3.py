@@ -1,0 +1,1 @@
+The task is to find a better approach than mine for finding the straight line distance between two points on a Cartesian plane.

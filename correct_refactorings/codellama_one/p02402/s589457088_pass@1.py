@@ -1,0 +1,15 @@
+n = int(input())
+x = list(map(int, input().split()))
+b = max(x)
+m = min(x)
+s = sum(x)
+print(f"{m} {b} {s}")
+
+
+def main():
+    n = int(input())
+    x = list(map(int, input().split()))
+    b = max(x)
+    m = min(x)
+    s = sum(x)
+    print(f"{m} {b} {s}")

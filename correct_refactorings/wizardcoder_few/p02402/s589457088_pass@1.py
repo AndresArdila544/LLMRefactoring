@@ -1,0 +1,6 @@
+n = int(input())
+x_list = list(map(int, input().split()))
+b = max(x_list)
+m = min(x_list)
+s = sum(x_list)
+print(f"{m} {b} {s}")

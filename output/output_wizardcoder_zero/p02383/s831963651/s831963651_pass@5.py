@@ -1,0 +1,2 @@
+a = list(map(int, input().split()))
+print(([a[1], a[5], a[2], a[3], a[0], a[4] if d == "N" else (a[3], a[1], a[0], a[5], a[4]) if d == "E" else (a[4], a[0], a[2], a[3], a[5]) if d == "S" else (a[2], a[1], a[5], a[0], a[4])) for d in input()])[-1]

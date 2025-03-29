@@ -1,0 +1,12 @@
+Error Type,Count
+EmptyError,1015
+SyntaxError,191
+LLMTokenArtifact,25
+MalformedExpression,9
+NaturalLanguageInCode,3
+InvalidIntCast,2
+IncompleteTraceback,1
+IOError,1
+MarkdownBlockError,1
+EOFError,1
+NameError,1

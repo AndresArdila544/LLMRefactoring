@@ -1,0 +1,1 @@
+print(f'{int(a)*int(b)} {2*(int(a)+int(b))}')

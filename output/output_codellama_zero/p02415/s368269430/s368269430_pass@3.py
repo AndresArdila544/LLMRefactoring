@@ -1,0 +1,1 @@
+sentence=input().translate(str.maketrans("","",dict.fromkeys([chr(i) for i in range(97,123)])))

@@ -1,0 +1,18 @@
+Error Type,Count
+EmptyError,45
+SyntaxError,28
+UnpackError,15
+NameError,12
+InvalidIntCast,10
+ValueError,7
+EOFError,6
+NaturalLanguageInCode,6
+MissingImport,5
+TypeError,4
+IndentationError,2
+AttributeError,1
+Python2RawInput,1
+IndexError,1
+IncompleteTraceback,1
+UnboundLocalError,1
+MalformedExpression,1

@@ -1,0 +1,8 @@
+Error Type,Count
+EmptyError,213
+SyntaxError,29
+LLMTokenArtifact,3
+ValueError,1
+NaturalLanguageInCode,1
+NameError,1
+UnpackError,1

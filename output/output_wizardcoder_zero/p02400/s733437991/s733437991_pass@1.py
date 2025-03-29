@@ -1,0 +1,1 @@
+print(f"{math.pi * float(input()**2), 2*math.pi * float(input())}")

@@ -1,0 +1,15 @@
+Error Type,Count
+MarkdownBlockError,85
+SyntaxError,49
+MalformedExpression,31
+EmptyError,18
+InvalidIntCast,11
+NameError,9
+MissingImport,5
+TypeError,5
+UnpackError,4
+IndexError,3
+NaturalLanguageInCode,3
+ValueError,2
+EOFError,2
+ZeroDivisionError,1

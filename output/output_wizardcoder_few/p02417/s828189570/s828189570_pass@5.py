@@ -1,0 +1,6 @@
+```python
+table = "abcdefghijklmnopqrstuvwxyz"
+sentence = input().lower()
+for i in table:
+    print(i + ' : ' + str(sentence.count(i)))
+```

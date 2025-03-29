@@ -1,0 +1,5 @@
+Error Type,Count
+EmptyError,232
+SyntaxError,15
+LLMTokenArtifact,3
+NameError,1

@@ -1,0 +1,19 @@
+Refactoring:
+import sys
+a = [int(e) for e in input().split()]
+print('a < b' if a[0] < a[1])
+elif a[0] > a[1]:
+  print('a > b')
+else:
+    print('a == b')
+
+
+Refactoring 2:
+import sys
+a = [int(e) for e in input().split()]
+if a[0] < a[1]:
+ print('a < b')
+elif a[0] > a[1]:
+  print('a > b')
+else:
+    print('a == b')

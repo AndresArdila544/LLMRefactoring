@@ -1,0 +1,1 @@
+The goal is to find a way to reduce the number of lines while preserving its functionality. Try not to use additional variables and data structures (lists etc.). It should be possible to solve this problem with only two or three lines of code.

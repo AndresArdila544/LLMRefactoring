@@ -1,0 +1,1 @@
+The refactored version should work exactly like the original program. The number of lines must be reduced and its complexity must be improved.

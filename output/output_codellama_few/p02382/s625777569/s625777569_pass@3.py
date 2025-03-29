@@ -1,0 +1,6 @@
+n = int(input())
+x, y = input().split(), input().split()
+print(manh(x, y))
+print(uqurid(x, y))
+print(minco(x, y))
+print(ebis(x, y))

@@ -1,0 +1,1 @@
+This is a continuation of our last assignment, where we had you refactor some simple C# code to improve its readability and maintainability. Today's problem is a continuation of that, so it will be similar in terms of difficulty but more challenging.

@@ -1,0 +1,1 @@
+print("#"*H+"\n") if H == W == 0 else "\n".join("."*(W-2)+"#"*(i in (0,H-1) or j in (0,W-1)) for i in range(H) for j in range(W))+'\n'
