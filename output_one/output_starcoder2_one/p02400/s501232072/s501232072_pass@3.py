@@ -1,1 +1,0 @@
-The original code is on github: https://github.com/kylelobo/The-Documentation-Compendium/blob/master/Python/Example%201.py

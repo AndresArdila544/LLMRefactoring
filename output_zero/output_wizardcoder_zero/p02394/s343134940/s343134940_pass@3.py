@@ -1,2 +1,0 @@
-w, h, x, y, r = map(int, input().split()) # refactor to remove unnecessary split() and int() function calls
-if 0 <= x-r < w and 0 <= y-r < h and 0 <= x+r <= w and 0 <= y+r <= h: print("Yes") else: print("No")

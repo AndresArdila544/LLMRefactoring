@@ -1,6 +1,0 @@
-n = int(input())
-nums = input().split()
-mi = max([int(x) for x in nums])
-ma = min([int(x) for x in nums])
-su = sum([int(x) for x in nums])
-print(mi, ma, su)

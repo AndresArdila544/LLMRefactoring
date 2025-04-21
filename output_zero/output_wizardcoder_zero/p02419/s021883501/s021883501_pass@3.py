@@ -1,1 +1,0 @@
-count = sum(1 for word in input().lower().split() if word == "word".lower())

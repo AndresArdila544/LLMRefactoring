@@ -1,1 +1,0 @@
-I'm also curious to know how you would solve this problem in C++ as well.

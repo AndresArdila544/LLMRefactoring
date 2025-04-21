@@ -1,1 +1,0 @@
-Below is the refactored Python program:

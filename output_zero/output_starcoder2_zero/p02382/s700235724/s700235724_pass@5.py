@@ -1,1 +1,0 @@
-The solution to this question is available in the file SOLUTION.md.

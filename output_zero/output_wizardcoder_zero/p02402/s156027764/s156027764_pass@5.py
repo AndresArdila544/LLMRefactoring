@@ -1,1 +1,0 @@
-refactored_code = lambda number: print(" ".join(map(str, (min(x), max(x), sum(map(int, x))) for x in input().split()))

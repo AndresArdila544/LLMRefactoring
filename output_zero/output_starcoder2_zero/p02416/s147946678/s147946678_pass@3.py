@@ -1,1 +1,0 @@
-The program asks the user to input a number. When the user inputs 0 (zero), then the program will exit. Otherwise, it adds up all of the digits in the number and prints the result.

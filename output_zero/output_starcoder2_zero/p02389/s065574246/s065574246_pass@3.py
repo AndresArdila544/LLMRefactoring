@@ -1,1 +1,0 @@
-You may make up your own test data for testing your refactored program, but please don't submit your test data as part of your answer.

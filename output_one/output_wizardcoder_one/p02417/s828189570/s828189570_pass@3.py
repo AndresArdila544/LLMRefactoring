@@ -1,1 +1,0 @@
-refactored_version = " ".join(f"{char}: {sentence.lower().count(char)}" for char in table)

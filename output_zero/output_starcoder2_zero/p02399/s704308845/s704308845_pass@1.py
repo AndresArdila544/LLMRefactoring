@@ -1,2 +1,0 @@
-I would also like you to keep your program in a single file. 
-The refactored version should be contained within a single .py file named refactor_test.py, with the main() function still at the bottom of the file.

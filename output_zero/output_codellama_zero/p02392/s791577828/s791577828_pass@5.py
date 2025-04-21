@@ -1,1 +1,0 @@
-print('Yes' if int(input()) < int(input()) < int(input()) else 'No')

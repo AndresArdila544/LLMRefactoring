@@ -1,5 +1,0 @@
-num = input()
-l = num.split(" ")
-a = int(l[0])
-b = int(l[1])
-print(f"{a*b} {a*2+b*2}")

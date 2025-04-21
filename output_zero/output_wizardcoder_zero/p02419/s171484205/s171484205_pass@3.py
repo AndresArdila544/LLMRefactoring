@@ -1,1 +1,0 @@
-w = stdin.read().lower().count(input())

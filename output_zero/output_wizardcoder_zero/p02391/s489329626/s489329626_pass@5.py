@@ -1,1 +1,0 @@
-`print(f"{'='*(a==b) * len("Equal") + '>'*(a>b) * len("Greater") + '<'*(a<b)`

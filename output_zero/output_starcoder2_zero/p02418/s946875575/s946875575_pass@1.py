@@ -1,1 +1,0 @@
-The expected output for this test case is: Yes.

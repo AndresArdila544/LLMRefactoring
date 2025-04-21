@@ -1,5 +1,0 @@
-a = list(map(int, input().split()))
-if (d := input()) == "N": b = [a[1], a[5], a[2], a[0], a[4]]; print(b[0])
-elif d == "E":  b = [a[3], a[1], a[0], a[4], a[2]]; print(b[0])
-elif d == "S":  b = [a[4], a[0], a[2], a[3], a[5]]; print(b[0])
-else:         b = [a[2], a[1], a[5], a[0], a[4] if d == "W" else a[3]; print(b[0])

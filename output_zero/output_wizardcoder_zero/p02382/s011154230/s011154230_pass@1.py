@@ -1,2 +1,0 @@
-def dist(A_lst, B_lst, p):
-    return (sum([abs(a-b)**p for a, b in zip(A_lst, B_lst)]) ** (1/p), "{:.6f}".format((max(map(lambda x: abs(x[0] - x[1], zip(A_lst, B_lst)))), chebyshev = max([abs(a-b) for a, b in zip(A_lst, B_lst)]))

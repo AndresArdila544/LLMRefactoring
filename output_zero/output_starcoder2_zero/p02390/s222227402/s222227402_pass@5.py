@@ -1,1 +1,0 @@
-The first line should contain a comment that explains what the program does.

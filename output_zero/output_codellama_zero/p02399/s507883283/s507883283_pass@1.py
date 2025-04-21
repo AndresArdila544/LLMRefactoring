@@ -1,1 +1,0 @@
-print(a//b, a%b, f'{a / b:.08f}')

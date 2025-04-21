@@ -1,1 +1,0 @@
-The text above should be enough to guide you through completing this task. Please provide your refactored code in a file named 'solution.py'.

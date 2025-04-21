@@ -1,3 +1,0 @@
-I need your program to be as readable as possible in terms of comments and names of identifiers. I would like it not to be overly cryptic - that is, a programmer should have a clear idea what each line of code does without looking at the other lines or the comments. Please make sure your code includes well-named variables and functions, and try to avoid abbreviations as much as possible (e.g., "i" for "index" rather than "idx").
-
-Good luck!

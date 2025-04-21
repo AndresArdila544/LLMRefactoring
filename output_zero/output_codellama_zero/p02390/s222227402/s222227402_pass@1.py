@@ -1,1 +1,0 @@
-print("{}:{}:{}".format(int(input())//3600,(int(input())-((int(input())//3600))*3600)//60,(int(input())-(((int(input())//3600)*3600)+((int(input())-((int(input())//3600))*3600))//60))))
